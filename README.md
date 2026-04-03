@@ -1,1 +1,1 @@
-# -running-automated-tests-for-different-interface-languages
+# Running-automated-tests-for-different-interface-languages
